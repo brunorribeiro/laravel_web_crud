@@ -10,9 +10,8 @@ Este é um aplicativo CRUD (Create, Read, Update, Delete) simples construído co
 
 ## Requisitos
 
-- PHP >= 7.4
+- PHP >= 8.1
 - Composer
 - Node.js >= 14
 - NPM ou Yarn
-- Vue >= 2
 - MySQL
